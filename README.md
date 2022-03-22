@@ -1,5 +1,11 @@
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://user-images.githubusercontent.com/91331117/159420862-8c805934-0e1e-476e-953c-47d4db83af32.png"
+  >
+</p>
 
-![image](https://user-images.githubusercontent.com/91331117/159420862-8c805934-0e1e-476e-953c-47d4db83af32.png)
 ## Objective.
 Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is whether the developers in charge find those choices to their liking. Once added to a project, Bootstrap provides basic style definitions for all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can take advantage of CSS classes defined in Bootstrap to further customize the appearance of their contents.
 ## Description.
